@@ -1,1 +1,1 @@
-const API_KEY = "12345-SECRET-API-KEY";
+const API_KEY = "sk_test_4eC39HqLyjWDarjtT1zdp7dc";
