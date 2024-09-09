@@ -1,4 +1,4 @@
-#Primera actividad GIT
+# Primera actividad GIT
 
-##Descripción
+## Descripción
 Este repositorio servirá para practicar los comandos básicos de GIT
